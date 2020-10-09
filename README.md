@@ -22,7 +22,7 @@
 
 Hi, I'm Sakshi Agarwal |  Front-End Web Developer |  Currently, I'm pursuing Master of Computer Applications 🎓 from Bharati Vidyapeeth's Institute of Computer Application and Management, Deli 🏛. I'm a Quick Learner and a Technology Enthusiast 💡. Beside's programming, I really enjoy Binge Watching , Dancing and traveling ⛰️.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media3.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif?cid=ecf05e470e1ryoan6polazt7l7jmku4w2rr72efw9s1pey3x&rid=giphy.gif" />
   
 **All about I, Me and MYSELF !:**
 
