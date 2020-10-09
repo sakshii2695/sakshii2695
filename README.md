@@ -2,25 +2,17 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/vasu-sehgal-a28085144/">
-  <img align="left" alt="Vasu Sehgal's LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/sakshi-agarwal-575552105/">
+  <img align="left" alt="Sakshi Agarwal's LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+<a href="https://www.instagram.com/sakshi.agarwal26/">
+  <img align="left" alt="Sakshi Agarwal's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://t.me/thegeekmonk">
-  <img align="left" alt="Vasu Sehgal's Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/the_vasusehgal/">
-  <img align="left" alt="Vasu Sehgal's Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCf0tk1ZU6QX3waEJqxHhHOA?v">
-  <img align="left" alt="Vasu Sehgal's Youtube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
-</a>
-<a href="https://www.facebook.com/vasu.sehgal.75">
-  <img align="left" alt="Vasu Sehgal's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
-</a>
+
 <br/>
 <br/>
 
-Hi, I'm Sakshi Agarwal |  Front-End Web Developer |  Currently, I'm pursuing Master of Computer Applications 🎓 from Bharati Vidyapeeth's Institute of Computer Application and Management, Deli 🏛. I'm a Quick Learner and a Technology Enthusiast 💡. Beside's programming, I really enjoy Binge Watching , Dancing and traveling ⛰️.
+Hi, I'm Sakshi Agarwal |  Front-End Web Developer |  Currently, I'm pursuing Master of Computer Applications 🎓 from Bharati Vidyapeeth's Institute of Computer Application and Management, Delhi 🏛. I'm a Quick Learner and a Technology Enthusiast 💡. Beside's programming, I really enjoy Binge Watching , Dancing and traveling ⛰️.
 
   <img align="right" alt="GIF" src="https://media3.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif?cid=ecf05e470e1ryoan6polazt7l7jmku4w2rr72efw9s1pey3x&rid=giphy.gif" />
   
@@ -29,9 +21,7 @@ Hi, I'm Sakshi Agarwal |  Front-End Web Developer |  Currently, I'm pursuing Mas
 - 👨🏽‍💻 I’m currently working with Node.js, React, Php, Javascript 🛠;
 - 🌱 I’m currently learning Front-End Web Development a🚀; 
 - 👯 I’m looking to collaborate on Web-Development Projects () 🤝;
-- 💬 Ask me about anything, I am happy to help 😎;
-- ⚡️ Fun-Fact: I am an Actor 🎭 and a Dancer 💃 who can Code 💻;
-- 📫 How to reach me: vasusehgal.mca19.du@gmail.com 📧;
+- 📫 How to reach me: sakshi.agarwal18@bvicam.in 📧;
 
 **Languages and Tools:**  
 
@@ -52,5 +42,5 @@ Hi, I'm Sakshi Agarwal |  Front-End Web Developer |  Currently, I'm pursuing Mas
 
 
 
-![Vasu Sehgal's github stats](https://github-readme-stats.vercel.app/api?username=sakshii2695&show_icons=true&hide_border=true)
+![Sakshi Agarwal's github stats](https://github-readme-stats.vercel.app/api?username=sakshii2695&show_icons=true&hide_border=true)
 
