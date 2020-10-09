@@ -27,8 +27,8 @@ Hi, I'm Sakshi Agarwal |  Front-End Web Developer |  Currently, I'm pursuing Mas
 **All about I, Me and MYSELF !:**
 
 - 👨🏽‍💻 I’m currently working with Node.js, React, Php, Javascript 🛠;
-- 🌱 I’m currently learning Front-End Web Development and Designing 🚀; 
-- 👯 I’m looking to collaborate on Web-Development Projects (https://github.com/The-Geek-Monk) 🤝;
+- 🌱 I’m currently learning Front-End Web Development a🚀; 
+- 👯 I’m looking to collaborate on Web-Development Projects () 🤝;
 - 💬 Ask me about anything, I am happy to help 😎;
 - ⚡️ Fun-Fact: I am an Actor 🎭 and a Dancer 💃 who can Code 💻;
 - 📫 How to reach me: vasusehgal.mca19.du@gmail.com 📧;
@@ -52,5 +52,5 @@ Hi, I'm Sakshi Agarwal |  Front-End Web Developer |  Currently, I'm pursuing Mas
 
 
 
-![Vasu Sehgal's github stats](https://github-readme-stats.vercel.app/api?username=The-Geek-Monk&show_icons=true&hide_border=true)
+![Vasu Sehgal's github stats](https://github-readme-stats.vercel.app/api?username=sakshii2695&show_icons=true&hide_border=true)
 
