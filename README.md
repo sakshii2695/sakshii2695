@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Sakshi Aggarwal!](https://www.youtube.com/channel/UCf0tk1ZU6QX3waEJqxHhHOA?view_as=subscriber) 
+### Hey 👋🏽, I'm [Sakshi Agarwal!](https://www.youtube.com/channel/UCf0tk1ZU6QX3waEJqxHhHOA?view_as=subscriber) 
 
 <br/>
 
@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-Hi, I'm Vasu Sehgal, a Graphic Designer | A YouTuber | Front-End Web Developer | Artist 🚀 from India. Currently, I'm pursuing Master of Computer Applications 🎓 from Department of Computer Science, University of Delhi 🏛. I'm a Quick Learner and a Technology Enthusiast 💡. Beside's programming, I really enjoy playing sports 🏈 and traveling ⛰️.
+Hi, I'm Sakshi Agarwal |  Front-End Web Developer |  Currently, I'm pursuing Master of Computer Applications 🎓 from Bharati Vidyapeeth's Institute of Computer Application and Management, Deli 🏛. I'm a Quick Learner and a Technology Enthusiast 💡. Beside's programming, I really enjoy Binge Watching , Dancing and traveling ⛰️.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
